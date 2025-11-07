@@ -1,0 +1,14 @@
+inmenu
+projector/hproj1.voc
+projector/hproj2.voc
+fmv_takeover_celeb/cheer1.voc
+fmv_throw_lamp/screamno.voc
+fmv_throw_lamp/projpass.voc
+fmv_throw_lamp/breaklamp.voc
+fmv_takeover_celeb/cheer2.voc
+fmv_takeover_celeb/cheerveh.voc
+fmv_takeover_celeb/cheer3.voc
+fmv_blimp_crash/blmpexpl.voc
+fmv_throw_lamp/hproj3.voc
+fmv_blimp_crash/blmpdown.voc
+fmv_throw_lamp/turnon.voc
