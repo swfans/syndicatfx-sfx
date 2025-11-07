@@ -2,9 +2,9 @@
 # Process this file with autoconf to produce a configure script.
 AC_PREREQ([2.69])
 
-m4_define([ver_major], [1])
-m4_define([ver_minor], [0])
-m4_define([ver_release], [1])
+m4_define([ver_major], [0])
+m4_define([ver_minor], [1])
+m4_define([ver_release], [0])
 # Set build number to commit count only if ".git" folder is present
 m4_define([ver_build], m4_if(m4_esyscmd_s([ls -1 -d ".git" 2>&1]),.git,[m4_esyscmd_s([git rev-list --count HEAD])],[0]))
 
